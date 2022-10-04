@@ -1,6 +1,6 @@
 wave Hi there
 
-I'm Elias, a Software Engineer based in Paris. I have developped a passion for coding and just finished the common core of 42. I'm specialized in Web2/Web3!
+I'm Elias, a Software Engineer based in Paris. I have developped a passion for coding and currently working as a blockchain Developper in Natixis Bank. I'm specialized in Web2/Web3!
 
 My first Website using Vue3 and Nestjs:
 https://github.com/esaci/FT_Transcendence_42
