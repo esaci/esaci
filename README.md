@@ -7,3 +7,5 @@ Landing Page The Squad:
 ![Alt Text](https://github.com/esaci/esaci/blob/main/TheSquadLP.gif)
 
 Application TheSquad:
+
+![Alt Text](https://github.com/esaci/esaci/blob/main/TheSquadApp.gif)
