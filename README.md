@@ -28,7 +28,7 @@ Designed to foster collective investment, the platform integrates democratic dec
 - **User-Centered Ergonomic & Fun Interface**: Designed to be intuitive while making asset management enjoyable.
 
 
-## Would you like to invest with friends, i have the solution:
+#### Would you like to invest with friends, i have the solution:
 
 React - Node/Express
 
